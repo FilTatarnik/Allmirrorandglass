@@ -52,40 +52,40 @@ export default class navbar extends Component {
             <img src="https://i.imgur.com/IKgJz9u.jpg"></img>
           </Carousel.Item>
           <Carousel.Item>
-            <img src=""></img>
+            <img src="https://i.imgur.com/DMQ74zY.jpg"></img>
           </Carousel.Item>
           <Carousel.Item>
-            <img src=""></img>
+            <img src="https://i.imgur.com/UdL60Xt.jpg"></img>
           </Carousel.Item>
           <Carousel.Item>
-            <img src=""></img>
+            <img src="https://i.imgur.com/Q1wBrvw.jpg"></img>
           </Carousel.Item>
           <Carousel.Item>
-            <img src=""></img>
+            <img src="https://i.imgur.com/07pj24H.jpg"></img>
           </Carousel.Item>
           <Carousel.Item>
-            <img src=""></img>
+            <img src="https://i.imgur.com/DtsGW0x.jpg"></img>
           </Carousel.Item>
           <Carousel.Item>
-            <img src=""></img>
+            <img src="https://i.imgur.com/MH7IkV5.jpg"></img>
           </Carousel.Item>
           <Carousel.Item>
-            <img src=""></img>
+            <img src="https://i.imgur.com/XxOdmzs.jpg"></img>
           </Carousel.Item>
           <Carousel.Item>
-            <img src=""></img>
+            <img src="https://i.imgur.com/3VtdhQ7.jpg"></img>
           </Carousel.Item>
           <Carousel.Item>
-            <img src=""></img>
+            <img src="https://i.imgur.com/7PBX5sc.jpg"></img>
           </Carousel.Item>
           <Carousel.Item>
-            <img src=""></img>
+            <img src="https://i.imgur.com/iXGRglu.jpg"></img>
           </Carousel.Item>
           <Carousel.Item>
-            <img src=""></img>
+            <img src="https://i.imgur.com/1lqAuot.jpg"></img>
           </Carousel.Item>
           <Carousel.Item>
-            <img src=""></img>
+            <img src="https://imgur.com/iYOYHIe"></img>
           </Carousel.Item>
         </Carousel>
       </div>
