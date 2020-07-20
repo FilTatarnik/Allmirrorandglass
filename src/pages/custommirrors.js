@@ -7,7 +7,7 @@ import "../components/styles.css"
 export default class navbar extends Component {
   render() {
     return (
-      <div className="carouselDiv">
+      <div className="carouselDiv text-center">
         <Carousel>
           <Carousel.Item>
             <img
@@ -16,7 +16,7 @@ export default class navbar extends Component {
             />
             <Carousel.Caption>
               <h3>Shower Doors</h3>
-              <p>3/8" Heavy Glass</p>
+              <p>7000 Framed Series</p>
             </Carousel.Caption>
           </Carousel.Item>
           <Carousel.Item>
@@ -27,7 +27,7 @@ export default class navbar extends Component {
 
             <Carousel.Caption>
               <h3>Shower Doors</h3>
-              <p>Hydroslide 180</p>
+              <p>Kwikstal Unit Prov Prestige Swing |</p>
             </Carousel.Caption>
           </Carousel.Item>
           <Carousel.Item>
@@ -38,112 +38,112 @@ export default class navbar extends Component {
 
             <Carousel.Caption>
               <h3>Shower Doors</h3>
-              <p>Hydroslide 90</p>
+              <p>1/4" Junior Geneva Series</p>
             </Carousel.Caption>
           </Carousel.Item>
           <Carousel.Item>
             <img src="https://i.imgur.com/lb1SoR9.jpg"></img>
             <Carousel.Caption>
               <h3>Shower Doors</h3>
-              <p>Bypass Unit 6000 Shw 1</p>
+              <p>Bypass - Frameless Style Series</p>
             </Carousel.Caption>
           </Carousel.Item>
           <Carousel.Item>
             <img src="https://i.imgur.com/jMXqhCH.jpg"></img>
             <Carousel.Caption>
               <h3>Shower Doors</h3>
-              <p>Bypass Unit 6000 Shw 2</p>
+              <p>Bypass - Framed 7000 Series</p>
             </Carousel.Caption>
           </Carousel.Item>
           <Carousel.Item>
             <img src="https://i.imgur.com/IKgJz9u.jpg"></img>
             <Carousel.Caption>
               <h3>Shower Doors</h3>
-              <p>Bypass Unit 6000 Shw ERS</p>
+              <p>Hydroslide 90</p>
             </Carousel.Caption>
           </Carousel.Item>
           <Carousel.Item>
             <img src="https://i.imgur.com/DMQ74zY.jpg"></img>
             <Carousel.Caption>
               <h3>Shower Doors</h3>
-              <p>Kwikstal Unit Freestyle Swg Neo E</p>
+              <p>Bypass Unit 6000 Shw 1</p>
             </Carousel.Caption>
           </Carousel.Item>
           <Carousel.Item>
             <img src="https://i.imgur.com/UdL60Xt.jpg"></img>
             <Carousel.Caption>
-              <h3></h3>
-              <p></p>
+              <h3>Shower Doors</h3>
+              <p>Bypass Unit 6000 Shw ERS</p>
             </Carousel.Caption>
           </Carousel.Item>
           <Carousel.Item>
             <img src="https://i.imgur.com/Q1wBrvw.jpg"></img>
             <Carousel.Caption>
-              <h3></h3>
-              <p></p>
+              <h3>Shower Doors</h3>
+              <p>Hydroslide 180</p>
             </Carousel.Caption>
           </Carousel.Item>
           <Carousel.Item>
             <img src="https://i.imgur.com/07pj24H.jpg"></img>
             <Carousel.Caption>
-              <h3></h3>
-              <p></p>
+              <h3>Shower Doors</h3>
+              <p>Bypass Unit 6000 Shw 2</p>
             </Carousel.Caption>
           </Carousel.Item>
           <Carousel.Item>
             <img src="https://i.imgur.com/DtsGW0x.jpg"></img>
             <Carousel.Caption>
-              <h3></h3>
-              <p></p>
+              <h3>Shower Doors</h3>
+              <p>3/8" Heavy Glass</p>
             </Carousel.Caption>
           </Carousel.Item>
           <Carousel.Item>
             <img src="https://i.imgur.com/MH7IkV5.jpg"></img>
             <Carousel.Caption>
-              <h3></h3>
-              <p></p>
+              <h3>Shower Doors</h3>
+              <p>Bypass - Frameless Freestyle Series</p>
             </Carousel.Caption>
           </Carousel.Item>
           <Carousel.Item>
             <img src="https://i.imgur.com/XxOdmzs.jpg"></img>
             <Carousel.Caption>
-              <h3></h3>
-              <p></p>
+              <h3>Shower Doors</h3>
+              <p>Kwikstal Unit Prov Prestige Neo</p>
             </Carousel.Caption>
           </Carousel.Item>
           <Carousel.Item>
             <img src="https://i.imgur.com/3VtdhQ7.jpg"></img>
             <Carousel.Caption>
-              <h3></h3>
-              <p></p>
+              <h3>Shower Doors</h3>
+              <p>Kwikstal Unit Hyaline Double Swing</p>
             </Carousel.Caption>
           </Carousel.Item>
           <Carousel.Item>
             <img src="https://i.imgur.com/7PBX5sc.jpg"></img>
             <Carousel.Caption>
-              <h3></h3>
-              <p></p>
+              <h3>Shower Doors</h3>
+              <p>3/8" Heavy Glass</p>
             </Carousel.Caption>
           </Carousel.Item>
           <Carousel.Item>
             <img src="https://i.imgur.com/iXGRglu.jpg"></img>
             <Carousel.Caption>
-              <h3></h3>
-              <p></p>
+              <h3>Shower Doors</h3>
+              <p>3/8" Heavy Glass with Clamps</p>
             </Carousel.Caption>
           </Carousel.Item>
           <Carousel.Item>
             <img src="https://i.imgur.com/1lqAuot.jpg"></img>
             <Carousel.Caption>
-              <h3></h3>
-              <p></p>
+              <h3>Shower Doors</h3>
+              <p>3/8" Heavy Glass with Clamps</p>
             </Carousel.Caption>
           </Carousel.Item>
           <Carousel.Item>
             <img src="https://imgur.com/iYOYHIe.jpg"></img>
             <Carousel.Caption>
-              <h3></h3>
-              <p></p>
+              <h3>Shower Doors</h3>
+              <p>Kwikstal Unit Style Swing ILPERS</p>
             </Carousel.Caption>
           </Carousel.Item>
         </Carousel>
