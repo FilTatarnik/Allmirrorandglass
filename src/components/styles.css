@@ -3,7 +3,11 @@
   height: 100vh;
 }
 
-.navLink {
+.carouselItem {
+  vertical-align: middle;
+}
+.navLink a :hover {
+  text-decoration: none !important;
 }
 
 /* Shutter In Horizontal */

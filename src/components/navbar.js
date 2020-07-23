@@ -17,7 +17,7 @@ export default class navbar extends Component {
     return (
       <div>
         <Navbar bg="light" expand="lg">
-          <Navbar.Brand href="#home" className="hvr-shutter-in-horizontal">
+          <Navbar.Brand href="/" className="hvr-shutter-in-horizontal">
             All Mirror and Glass
           </Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
