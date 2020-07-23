@@ -35,11 +35,10 @@ const Layout = ({ children }) => {
         }}
       >
         <main>{children}</main>
-        <footer>
-          © {new Date().getFullYear()}, Built with
-          {` `}
-          <a href="https://www.gatsbyjs.org">Gatsby</a>
-        </footer>
+        <h2>
+          Showroom Location - 1547 Bourbon Parkway Streamwood, IL 60107
+          Providing Services to Chicago & the Surrounding Area
+        </h2>
       </div>
     </>
   )
