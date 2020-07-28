@@ -17,138 +17,75 @@ const CommercialStorefront = () => (
           alt="First slide"
         />
         <Carousel.Caption>
-          <h3>Shower Doors</h3>
-          <p>7000 Framed Series</p>
+          <h3>Commercial Storefront</h3>
+          <p></p>
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item className="carouselItem">
         <img
-          src="https://i.imgur.com/LnIXxEL.jpg text=Second slide"
+          src="https://i.imgur.com/yNRerHg.jpg text=Second slide"
           alt="Second slide"
         />
 
         <Carousel.Caption>
-          <h3>Shower Doors</h3>
-          <p>Kwikstal Unit Prov Prestige Swing |</p>
+          <h3>Commercial Storefront</h3>
+          <p></p>
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item className="carouselItem">
         <img
-          src="https://i.imgur.com/9Eif3Xf.jpg text=Third slide"
+          src="https://i.imgur.com/l0fvYRZ.jpg text=Third slide"
           alt="Third slide"
         />
 
         <Carousel.Caption>
-          <h3>Shower Doors</h3>
-          <p>1/4" Junior Geneva Series</p>
+          <h3>Commercial Storefront</h3>
+          <p></p>
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item className="carouselItem">
-        <img src="https://i.imgur.com/lb1SoR9.jpg"></img>
+        <img src="https://i.imgur.com/3Uwp7wG.jpg"></img>
         <Carousel.Caption>
-          <h3>Shower Doors</h3>
-          <p>Bypass - Frameless Style Series</p>
+          <h3>Commercial Storefront</h3>
+          <p></p>
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item className="carouselItem">
-        <img src="https://i.imgur.com/jMXqhCH.jpg"></img>
+        <img src="https://i.imgur.com/H5rcLJr.jpg"></img>
         <Carousel.Caption>
-          <h3>Shower Doors</h3>
-          <p>Bypass - Framed 7000 Series</p>
+          <h3>Commercial Storefront</h3>
+          <p></p>
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item className="carouselItem">
-        <img src="https://i.imgur.com/IKgJz9u.jpg"></img>
+        <img src="https://i.imgur.com/pVqNOz3.jpg"></img>
         <Carousel.Caption>
-          <h3>Shower Doors</h3>
-          <p>Hydroslide 90</p>
+          <h3>Commercial Storefront</h3>
+          <p></p>
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item className="carouselItem">
-        <img src="https://i.imgur.com/DMQ74zY.jpg"></img>
+        <img src="https://i.imgur.com/UkvdwcK.jpg"></img>
         <Carousel.Caption>
-          <h3>Shower Doors</h3>
-          <p>Bypass Unit 6000 Shw 1</p>
+          <h3>Commercial Storefront</h3>
+          <p></p>
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item className="carouselItem">
-        <img src="https://i.imgur.com/UdL60Xt.jpg"></img>
+        <img src="https://i.imgur.com/6ozEGiy.jpg"></img>
         <Carousel.Caption>
-          <h3>Shower Doors</h3>
-          <p>Bypass Unit 6000 Shw ERS</p>
+          <h3>Commercial Storefront</h3>
+          <p></p>
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item className="carouselItem">
-        <img src="https://i.imgur.com/Q1wBrvw.jpg"></img>
+        <img src="https://i.imgur.com/1gAShuY.jpg"></img>
         <Carousel.Caption>
-          <h3>Shower Doors</h3>
-          <p>Hydroslide 180</p>
+          <h3>Commercial Storefront</h3>
+          <p></p>
         </Carousel.Caption>
       </Carousel.Item>
-      <Carousel.Item className="carouselItem">
-        <img src="https://i.imgur.com/07pj24H.jpg"></img>
-        <Carousel.Caption>
-          <h3>Shower Doors</h3>
-          <p>Bypass Unit 6000 Shw 2</p>
-        </Carousel.Caption>
-      </Carousel.Item>
-      <Carousel.Item className="carouselItem">
-        <img src="https://i.imgur.com/DtsGW0x.jpg"></img>
-        <Carousel.Caption>
-          <h3>Shower Doors</h3>
-          <p>3/8" Heavy Glass</p>
-        </Carousel.Caption>
-      </Carousel.Item>
-      <Carousel.Item className="carouselItem">
-        <img src="https://i.imgur.com/MH7IkV5.jpg"></img>
-        <Carousel.Caption>
-          <h3>Shower Doors</h3>
-          <p>Bypass - Frameless Freestyle Series</p>
-        </Carousel.Caption>
-      </Carousel.Item>
-      <Carousel.Item className="carouselItem">
-        <img src="https://i.imgur.com/XxOdmzs.jpg"></img>
-        <Carousel.Caption>
-          <h3>Shower Doors</h3>
-          <p>Kwikstal Unit Prov Prestige Neo</p>
-        </Carousel.Caption>
-      </Carousel.Item>
-      <Carousel.Item className="carouselItem">
-        <img src="https://i.imgur.com/3VtdhQ7.jpg"></img>
-        <Carousel.Caption>
-          <h3>Shower Doors</h3>
-          <p>Kwikstal Unit Hyaline Double Swing</p>
-        </Carousel.Caption>
-      </Carousel.Item>
-      <Carousel.Item className="carouselItem">
-        <img src="https://i.imgur.com/7PBX5sc.jpg"></img>
-        <Carousel.Caption>
-          <h3>Shower Doors</h3>
-          <p>3/8" Heavy Glass</p>
-        </Carousel.Caption>
-      </Carousel.Item>
-      <Carousel.Item className="carouselItem">
-        <img src="https://i.imgur.com/iXGRglu.jpg"></img>
-        <Carousel.Caption>
-          <h3>Shower Doors</h3>
-          <p>3/8" Heavy Glass with Clamps</p>
-        </Carousel.Caption>
-      </Carousel.Item>
-      <Carousel.Item className="carouselItem">
-        <img src="https://i.imgur.com/1lqAuot.jpg"></img>
-        <Carousel.Caption>
-          <h3>Shower Doors</h3>
-          <p>3/8" Heavy Glass with Clamps</p>
-        </Carousel.Caption>
-      </Carousel.Item>
-      <Carousel.Item className="carouselItem">
-        <img src="https://imgur.com/iYOYHIe.jpg"></img>
-        <Carousel.Caption>
-          <h3>Shower Doors</h3>
-          <p>Kwikstal Unit Style Swing ILPERS</p>
-        </Carousel.Caption>
-      </Carousel.Item>
-    </Carousel>{" "}
+    </Carousel>
   </Layout>
 )
 

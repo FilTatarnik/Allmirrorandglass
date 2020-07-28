@@ -30,6 +30,9 @@ export default class navbar extends Component {
                 <Link to="/custommirrors/">Custom Mirrors</Link>
               </Nav.Link>
               <Nav.Link className="hvr-float-shadow">
+                <Link to="/framedmirrors/">Framed Mirrors</Link>
+              </Nav.Link>
+              <Nav.Link className="hvr-float-shadow">
                 <Link to="/showerdoors/">Shower Doors</Link>
               </Nav.Link>
               <Nav.Link className="hvr-float-shadow">
